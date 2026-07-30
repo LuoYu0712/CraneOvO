@@ -6,33 +6,33 @@ const SITE_LANG = "zh_CN";
 
 export const siteConfig: SiteConfig = {
 	// 站点标题
-	title: "Firefly",
+	title: "纸鹤の小窝",
 
 	// 站点副标题
-	subtitle: "Demo site",
+	subtitle: "纸鹤的博客",
 
 	// 站点 URL
 	site_url: "https://firefly.cuteleaf.cn",
 
 	// 站点描述
 	description:
-		"Firefly 是一款基于 Astro 框架和 Fuwari 模板开发的清新美观且现代化个人博客主题模板，专为技术爱好者和内容创作者设计。该主题融合了现代 Web 技术栈，提供了丰富的功能模块和高度可定制的界面，让您能够轻松打造出专业且美观的个人博客网站。",
+		"这里是纸鹤の小窝！主要分享一些生活，技术以及各种碎碎念~ 博客基于Astro框架构建，使用Firefly主题。",
 
 	// 站点关键词
 	keywords: [
-		"Firefly",
+		"纸鹤",
 		"Fuwari",
 		"Astro",
 		"ACGN",
 		"博客",
-		"技术博客",
+		"生活博客",
 		"静态博客",
 	],
 
 	// 主题色
 	themeColor: {
 		// 主题色的默认色相，范围从 0 到 360。例如：红色：0，青色：200，蓝绿色：250，粉色：345
-		hue: 165,
+		hue: 230,
 		// 默认模式："light" 亮色，"dark" 暗色，"system" 跟随系统
 		defaultMode: "system",
 	},
@@ -47,7 +47,7 @@ export const siteConfig: SiteConfig = {
 		// 是否开启卡片边框和阴影，开启后让网站更有立体感
 		border: false,
 		// 是否让卡片风格跟随主题色相
-		followTheme: false,
+		followTheme: true,
 	},
 
 	// Favicon 配置
@@ -77,7 +77,7 @@ export const siteConfig: SiteConfig = {
 			alt: "🍀",
 		},
 		// 导航栏标题
-		title: "Firefly",
+		title: "纸鹤の小窝",
 		// 全宽导航栏，导航栏是否占满屏幕宽度
 		widthFull: false,
 		// 导航菜单对齐方式，left：左对齐，center：居中
@@ -89,7 +89,7 @@ export const siteConfig: SiteConfig = {
 	},
 
 	// 站点开始日期，用于统计运行天数
-	siteStartDate: "2025-01-01",
+	siteStartDate: "2026-07-30",
 
 	// 站点时区（IANA 时区字符串），用于格式化bangumi、rss里的构建日期时间等等..
 	// 示例："Asia/Shanghai", "UTC", 如果为空，则按照构建服务器的时区进行时区转换
@@ -100,11 +100,11 @@ export const siteConfig: SiteConfig = {
 		// 友链页面开关
 		friends: true,
 		// 打赏页面开关
-		sponsor: true,
+		sponsor: false,
 		// 留言板页面开关，需要配置评论系统
 		guestbook: true,
 		// 番组计划页面开关，含追番、游戏、书籍和音乐
-		bangumi: true,
+		bangumi: false,
 		// 相册页面开关
 		gallery: true,
 		// 追番页面开关
@@ -132,7 +132,7 @@ export const siteConfig: SiteConfig = {
 		// 标签显示位置
 		// 设置为"meta"：显示在文章标题下的元数据
 		// 设置为"bottom"：顶替stats在底部显示
-		tagsPosition: "bottom",
+		tagsPosition: "meta",
 		// PostMeta 元数据显示控制
 		meta: {
 			// 是否显示发布日期
@@ -142,7 +142,7 @@ export const siteConfig: SiteConfig = {
 			// 是否显示标签
 			showTags: true,
 			// 标签数量，设为 0 则不限制
-			tagCount: 5,
+			tagCount: 0,
 			// 是否显示字数
 			showWords: false,
 			// 是否显示阅读时间
@@ -152,7 +152,7 @@ export const siteConfig: SiteConfig = {
 		// 如果tagsPosition设置为"bottom"，则stats将不显示
 		stats: {
 			// 是否显示发布日期
-			showPublished: true,
+			showPublished: false,
 			// 是否显示字数
 			showWords: true,
 			// 是否显示阅读时间
@@ -161,7 +161,7 @@ export const siteConfig: SiteConfig = {
 		// 网格布局配置，仅在 defaultMode 为 "grid" 或允许切换布局时生效
 		grid: {
 			// 是否开启瀑布流布局，同时有封面图和无封面图的混合文章推荐开启
-			masonry: false,
+			masonry: true,
 			// 网格模式卡片最小宽度(px)，浏览器根据容器宽度自动计算列数
 			columnWidth: 320,
 		},
@@ -214,7 +214,7 @@ export const siteConfig: SiteConfig = {
 		// Bilibili 配置
 		bilibili: {
 			// 你的 Bilibili 用户 UID
-			uid: "38932988",
+			uid: "1265037585",
 		},
 		// TMDB 配置（可选，需要翻墙）
 		// tmdb: {
