@@ -66,13 +66,15 @@ const statCards = [
   </div>
 </WidgetLayout>
 
+<script is:inline async src="https://busuanzi.ibruce.info/busuanzi/2.1/busuanzi.pure.mini.js"></script>
+
 <script is:inline>
   const refreshVisitorStats = () => {
     const values = document.querySelectorAll('.visitor-stat-value');
     values.forEach((element) => {
       const text = element.textContent?.trim() || '';
-      if (!text || text === '0') {
-        element.textContent = '--';
+      if (text === '--' && window.Busuanzi?.fetch) {
+        window.Busuanzi.fetch();
       }
     });
   };
