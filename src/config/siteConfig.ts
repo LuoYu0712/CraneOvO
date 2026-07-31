@@ -132,7 +132,7 @@ export const siteConfig: SiteConfig = {
 		// 标签显示位置
 		// 设置为"meta"：显示在文章标题下的元数据
 		// 设置为"bottom"：顶替stats在底部显示
-		tagsPosition: "meta",
+		tagsPosition: "bottom",
 		// PostMeta 元数据显示控制
 		meta: {
 			// 是否显示发布日期
@@ -144,9 +144,9 @@ export const siteConfig: SiteConfig = {
 			// 标签数量，设为 0 则不限制
 			tagCount: 0,
 			// 是否显示字数
-			showWords: false,
+			showWords: true,
 			// 是否显示阅读时间
-			showReadingTime: false,
+			showReadingTime: true,
 		},
 		// 底部 PostStats 统计信息显示控制
 		// 如果tagsPosition设置为"bottom"，则stats将不显示
