@@ -265,6 +265,11 @@ export const en: Translation = {
 	[Key.pageViews]: "Views",
 	[Key.pageViewsLoading]: "Loading...",
 	[Key.pageViewsError]: "Stats unavailable",
+	[Key.visitorStats]: "Visitor Stats",
+	[Key.visitorStatsTodayViews]: "Today Views",
+	[Key.visitorStatsTodayVisitors]: "Today Visitors",
+	[Key.visitorStatsTotalViews]: "Total Views",
+	[Key.visitorStatsTotalVisitors]: "Total Visitors",
 
 	// Pinned
 	[Key.pinned]: "Pinned",
