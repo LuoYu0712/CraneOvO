@@ -259,6 +259,11 @@ export const zh_TW: Translation = {
 	[Key.pageViews]: "瀏覽量",
 	[Key.pageViewsLoading]: "載入中...",
 	[Key.pageViewsError]: "統計不可用",
+	[Key.visitorStats]: "訪問統計",
+	[Key.visitorStatsTodayViews]: "今日訪問",
+	[Key.visitorStatsTodayVisitors]: "今日訪客",
+	[Key.visitorStatsTotalViews]: "總訪問",
+	[Key.visitorStatsTotalVisitors]: "總訪客",
 
 	// 置頂
 	[Key.pinned]: "置頂",

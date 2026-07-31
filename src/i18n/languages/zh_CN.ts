@@ -257,6 +257,11 @@ export const zh_CN: Translation = {
 	[Key.pageViews]: "浏览量",
 	[Key.pageViewsLoading]: "加载中...",
 	[Key.pageViewsError]: "统计不可用",
+	[Key.visitorStats]: "访问统计",
+	[Key.visitorStatsTodayViews]: "今日访问",
+	[Key.visitorStatsTodayVisitors]: "今日访客",
+	[Key.visitorStatsTotalViews]: "总访问",
+	[Key.visitorStatsTotalVisitors]: "总访客",
 
 	// 置顶
 	[Key.pinned]: "置顶",

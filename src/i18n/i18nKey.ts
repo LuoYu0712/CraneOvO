@@ -257,6 +257,11 @@ enum I18nKey {
 	pageViews = "pageViews",
 	pageViewsLoading = "pageViewsLoading",
 	pageViewsError = "pageViewsError",
+	visitorStats = "visitorStats",
+	visitorStatsTodayViews = "visitorStatsTodayViews",
+	visitorStatsTodayVisitors = "visitorStatsTodayVisitors",
+	visitorStatsTotalViews = "visitorStatsTotalViews",
+	visitorStatsTotalVisitors = "visitorStatsTotalVisitors",
 
 	// 置顶
 	pinned = "pinned",
