@@ -23,8 +23,8 @@ export const profileConfig: ProfileConfig = {
 	links: [
 		{
 			name: "qq",
-			icon: "fa7-brands:qq",
-			url: "https://qun.qq.com/universal-share/share?ac=1&authKey=wzxmERj41fgMEE1S9o%2BME0Fddh0axcCFFHtnQyfmMLosvM22uTHlkb3sD4%2F72zZH&busi_data=eyJncm91cENvZGUiOiI1NDIzODI1ODkiLCJ0b2tlbiI6ImpLMDE2OEhBK3hHaTROUWJ2V0Ywa21UQ1VVMld5SmVFczhtZSt3L3FpQzQ3ZHZ4YXBVN1p5SVdQTi91dTBtT1YiLCJ1aW4iOiIxNTc1ODU4NTMwIn0%3D&data=5Z4hTxcP2QDS505epN52LiCMfrrSiM-YGFLvYg0sNv802F629ng2ljPlBa-wpaDj5zBL-X_WOb9qTCkGdD1AzA&svctype=4&tempid=h5_group_info",
+			icon: "fa7-brands:bilibili",
+			url: "https://space.bilibili.com/1265037585",
 			showName: false,
 		},
 		{
