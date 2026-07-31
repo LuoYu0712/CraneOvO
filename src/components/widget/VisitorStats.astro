@@ -18,22 +18,22 @@ const statCards = [
 	{
 		icon: "material-symbols:today-outline-rounded",
 		label: i18n(I18nKey.visitorStatsTodayViews),
-		id: "busuanzi_value_page_pv",
+		id: "busuanzi_today_pv",
 	},
 	{
 		icon: "material-symbols:person-outline-rounded",
 		label: i18n(I18nKey.visitorStatsTodayVisitors),
-		id: "busuanzi_value_page_uv",
+		id: "busuanzi_today_uv",
 	},
 	{
 		icon: "material-symbols:bar-chart-outline-rounded",
 		label: i18n(I18nKey.visitorStatsTotalViews),
-		id: "busuanzi_value_site_pv",
+		id: "busuanzi_site_pv",
 	},
 	{
 		icon: "material-symbols:group-outline-rounded",
 		label: i18n(I18nKey.visitorStatsTotalVisitors),
-		id: "busuanzi_value_site_uv",
+		id: "busuanzi_site_uv",
 	},
 ];
 ---
@@ -66,15 +66,14 @@ const statCards = [
   </div>
 </WidgetLayout>
 
-<script is:inline async src="https://busuanzi.ibruce.info/busuanzi/2.1/busuanzi.pure.mini.js"></script>
+<script is:inline defer src="//cdn.busuanzi.cc/busuanzi/3.6.9/busuanzi.min.js"></script>
 
 <script is:inline>
   const refreshVisitorStats = () => {
     const values = document.querySelectorAll('.visitor-stat-value');
     values.forEach((element) => {
-      const text = element.textContent?.trim() || '';
-      if (text === '--' && window.Busuanzi?.fetch) {
-        window.Busuanzi.fetch();
+      if (element.textContent?.trim() === '--') {
+        element.textContent = '加载中...';
       }
     });
   };
