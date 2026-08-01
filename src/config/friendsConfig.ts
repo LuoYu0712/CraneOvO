@@ -11,7 +11,7 @@ export const friendsPageConfig: FriendsPageConfig = {
 	description: "",
 
 	// 是否显示底部自定义内容（friends.mdx 中的内容）
-	showCustomContent: true,
+	showCustomContent: false,
 
 	// 是否显示评论区，需要先在commentConfig.ts启用评论系统
 	showComment: true,
@@ -23,9 +23,26 @@ export const friendsPageConfig: FriendsPageConfig = {
 // 友链配置
 export const friendsConfig: FriendLink[] = [
 	{
+		title: "V次元",
+		imgurl:"https://img.craneovo.top/file/friends/1785600467377_V次元.png",
+		desc: "优质、简约的中文术力口社区",
+		siteurl: "https://bbs.lty.fan",
+		tags: ["社区", "中V"],
+		weight: 12, // 权重，数字越大排序越靠前
+		enabled: true, // 是否启用
+	},
+	{
+		title: "VCPedia",
+		imgurl:"https://img.craneovo.top/file/friends/VCPedia.webp",
+		desc: "关于中文歌声合成的一切",
+		siteurl: "https://vcpedia.cn",
+		tags: ["Wiki", "中V"],
+		weight: 11, // 权重，数字越大排序越靠前
+		enabled: true, // 是否启用
+	},
+	{
 		title: "夏夜流萤",
-		imgurl:
-			"https://weavatar.com/avatar/d252655d40d6874417a720bad0a6c5f77f8f6a1fd2f882f8f338402dc37e4190?s=640",
+		imgurl:"https://weavatar.com/avatar/d252655d40d6874417a720bad0a6c5f77f8f6a1fd2f882f8f338402dc37e4190?s=640",
 		desc: "飞萤之火自无梦的长夜亮起，绽放在终竟的明天。",
 		siteurl: "https://blog.cuteleaf.cn",
 		tags: ["Blog"],
@@ -48,6 +65,24 @@ export const friendsConfig: FriendLink[] = [
 		siteurl: "https://github.com/withastro/astro",
 		tags: ["Framework"],
 		weight: 8,
+		enabled: true,
+	},
+	{
+		title: "CloudFlare ImgBed",
+		imgurl: "https://img.craneovo.top/file/friends/CloudFlare_ImgBed.png",
+		desc: "支持 Docker 与 Serverless 部署的开源自建图床和文件托管方案",
+		siteurl: "https://cfbed.sanyue.de/",
+		tags: ["Tech"],
+		weight: 7,
+		enabled: true,
+	},
+	{
+		title: "Waline",
+		imgurl: "https://img.craneovo.top/file/friends/1785601127464_waline.png",
+		desc: "一款简洁、安全的评论系统",
+		siteurl: "https://waline.js.org/",
+		tags: ["Tech"],
+		weight: 6,
 		enabled: true,
 	},
 ];
