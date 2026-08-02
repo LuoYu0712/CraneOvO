@@ -36,6 +36,7 @@ Firefly-docs/
 cache/
 package/
 .obsidian/
+.imgbed_backup/
 
 # vibe coding
 .codex*
