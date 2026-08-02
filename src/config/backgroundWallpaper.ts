@@ -81,11 +81,10 @@ export const backgroundWallpaper: BackgroundWallpaperConfig = {
 			// 主页横幅副标题
 			subtitle: [
 				"Ciallo～(∠・ω< )⌒★",
-				"From Shattered Sky, I Free Fall",
-				"Amidst Silenced Stars, I Deep Sleep",
-				"Upon Lighted Fyrefly, I Soon Gaze",
-				"From Undreamt Night, I Thence Shine",
-				"In Finalized Morrow, I Full Bloom",
+				"May someone could step on your heart.",
+				"May your dream come true.",
+				"至少在这一刻，热爱不问为何",
+				"最后一次拥抱我吧，哪怕只有海风",
 			],
 			// 主页横幅副标题字体大小
 			subtitleSize: "1.5rem",
