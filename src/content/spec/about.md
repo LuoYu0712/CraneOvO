@@ -13,7 +13,7 @@
 - 各种碎碎念
 - ......
 
-如果这里的文章有什么能帮到你或者能让你感到开心就再好不过啦，看得开心！
+如果这里的文章有什么能帮到你或者能让你感到开心就再好不过啦，看得愉快！
 
 ---
 *本网站使用 **Astro** 框架构建，采用了 [Firefly](https://github.com/CuteLeaf/Firefly) 模板，Firefly 是基于 [Fuwari](https://github.com/saicaca/fuwari) 的二次开发。评论系统由 [Waline](https://waline.js.org/) 提供支持，图床方案采用 [CloudFlare ImgBed](https://cfbed.sanyue.de) 实现。*
