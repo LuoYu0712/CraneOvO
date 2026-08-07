@@ -50,12 +50,21 @@ export const friendsConfig: FriendLink[] = [
 		enabled: true, // 是否启用
 	},
 	{
+		title: "vsqx.top",
+		imgurl:"https://img.craneovo.top/file/friends/1786006210630_vsqx.ico",
+		desc: "Vocaloid软件的技术文章,工程文件分享站",
+		siteurl: "https://www.vsqx.top/",
+		tags: ["技术", "中V"],
+		weight: 9, // 权重，数字越大排序越靠前
+		enabled: true, // 是否启用
+	},
+	{
 		title: "夏夜流萤",
 		imgurl:"https://weavatar.com/avatar/d252655d40d6874417a720bad0a6c5f77f8f6a1fd2f882f8f338402dc37e4190?s=640",
 		desc: "飞萤之火自无梦的长夜亮起，绽放在终竟的明天。",
 		siteurl: "https://blog.cuteleaf.cn",
 		tags: ["Blog"],
-		weight: 9, // 权重，数字越大排序越靠前
+		weight: 8, // 权重，数字越大排序越靠前
 		enabled: true, // 是否启用
 	},
 	{
@@ -64,7 +73,7 @@ export const friendsConfig: FriendLink[] = [
 		desc: "Firefly主题模板文档",
 		siteurl: "https://docs-firefly.cuteleaf.cn",
 		tags: ["Docs"],
-		weight: 8,
+		weight: 7,
 		enabled: true,
 	},
 	{
@@ -73,7 +82,7 @@ export const friendsConfig: FriendLink[] = [
 		desc: "The web framework for content-driven websites. ⭐️ Star to support our work!",
 		siteurl: "https://github.com/withastro/astro",
 		tags: ["Framework"],
-		weight: 7,
+		weight: 6,
 		enabled: true,
 	},
 	{
@@ -82,7 +91,7 @@ export const friendsConfig: FriendLink[] = [
 		desc: "支持 Docker 与 Serverless 部署的开源自建图床和文件托管方案",
 		siteurl: "https://cfbed.sanyue.de/",
 		tags: ["Tech"],
-		weight: 6,
+		weight: 5,
 		enabled: true,
 	},
 	{
@@ -91,7 +100,7 @@ export const friendsConfig: FriendLink[] = [
 		desc: "一款简洁、安全的评论系统",
 		siteurl: "https://waline.js.org/",
 		tags: ["Tech"],
-		weight: 5,
+		weight: 4,
 		enabled: true,
 	},
 ];
