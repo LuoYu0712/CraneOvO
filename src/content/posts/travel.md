@@ -3,7 +3,8 @@ title: 南京旅游攻略
 published: 2026-08-07
 pinned: false
 description: 从网络整合出的南京游玩攻略！(自用)
-tags: [旅游]
+tags:
+  - 旅游
 category: 生活
 draft: false
 slug: travel
@@ -11,7 +12,7 @@ password: "114514"
 ---
 
 <iframe width="100%" height="468"
-  src="//player.bilibili.com/player.html?isOutside=true&aid=115139634334227&bvid=BV1FEa6zLEp9&cid=32131843766&p=1"
+  src="//player.bilibili.com/player.html?isOutside=true&aid=115139634334227&bvid=BV1FEa6zLEp9&cid=32131843766&p=1&autoplay=false"
   scrolling="no" border="0" frameborder="no"
   framespacing="0" allowfullscreen="true">
 </iframe>
@@ -91,6 +92,10 @@ password: "114514"
 **云锦路地铁站**旁，推荐最后一天去
 
 ## 总统府(2.5小时)(推荐)
+> [!caution]
+> **周一闭馆！**
+
+
 **大行宫地铁站**旁 ，分为中西东三区，建议分区游玩
 ![总览](https://img.craneovo.top/file/blog/posts/travel/1786084279669_image.png)
 
@@ -105,7 +110,8 @@ password: "114514"
 
 ## 南京博物院(3小时)(推荐)
 > [!caution]
-> 南京博物**院**和南京博物**馆**是两个地方，导航的时候看清楚！！！
+> 南京博物**院**和南京博物**馆**是两个地方，导航的时候看清楚！！！<br>
+> **周一闭馆！**
 
 > [!tip]
 > 需要提前七天下午6点抢票，或者购买VR沉浸式展票，也可以进去参观
@@ -150,12 +156,12 @@ password: "114514"
 # 美食
 ![橙色标点为美食区，绿色为景点](https://img.craneovo.top/file/blog/posts/travel/1786088088525_image.png)
 <iframe width="100%" height="468"
-  src="//player.bilibili.com/player.html?isOutside=true&aid=115938145864136&bvid=BV1nnzWBeEJ2&cid=35563047529&p=1"
+  src="//player.bilibili.com/player.html?isOutside=true&aid=115938145864136&bvid=BV1nnzWBeEJ2&cid=35563047529&p=1&autoplay=false"
   scrolling="no" border="0" frameborder="no"
   framespacing="0" allowfullscreen="true">
 </iframe>
 <iframe width="100%" height="468"
-  src="//player.bilibili.com/player.html?isOutside=true&aid=116164688612344&bvid=BV1YtAoz3Er3&cid=36422222832&p=1"
+  src="//player.bilibili.com/player.html?isOutside=true&aid=116164688612344&bvid=BV1YtAoz3Er3&cid=36422222832&p=1&autoplay=false"
   scrolling="no" border="0" frameborder="no"
   framespacing="0" allowfullscreen="true">
 </iframe>
@@ -237,3 +243,26 @@ password: "114514"
 ## 其他
 - 刘顺兴面馆(皮肚面，这家非常辣)
 - 小马牛肉面·锅贴(牛肉面)
+
+
+
+# 行程安排
+
+## 17号
+12：47到南京南站<br>
+13：30左右到酒店<br>
+找地方对付一口休息一下<br>
+然后出发去老门东顺便吃晚饭<br>
+可以去隔壁鹏欣水游城<br>
+晚上去夫子庙夜游秦淮
+
+## 18号
+走钟山风景区路线<br>
+早上起早点从梧桐大道开始逛<br>
+明孝陵逛完出来吃饭，12：30到14：30去中山陵<br>
+然后看情况爬一下头陀岭
+
+## 19号
+地铁2号线沿线路线<br>
+南京博物院和大屠杀遇难者纪念馆免预约，总统府需买门票<br>
+其他的再商量8
