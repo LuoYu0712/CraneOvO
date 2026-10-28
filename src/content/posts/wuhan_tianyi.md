@@ -3,7 +3,7 @@ title: 天依留下的话
 published: 2026-10-31
 pinned: false
 description: 测试
-tags: test
+tags: [test]
 draft: false
 slug: tianyi_letter
 ---
