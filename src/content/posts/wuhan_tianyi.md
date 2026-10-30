@@ -2,13 +2,14 @@
 title: 来自天依的信~✉
 published: 2026-10-31
 pinned: false
-description: 测试
+description: 武汉场后天依为你留下的话~
 tags: [天依, 无料信件]
 draft: false
+image: https://img.craneovo.top/file/blog/posts/tianyi_letter/1793380945036_Image_1787496952390_699.jpg
 slug: tianyi_letter
 ---
 
-<audio controls src="https://img.craneovo.top/file/others/1793162304522_test.mp3"></audio>
+<audio controls src="https://img.craneovo.top/file/voice/1793380646317_天依的信.mp3"></audio>
 
 
 呼呼，今年巡演的最后一站也圆满落幕啦！怎么样，天依在台上的表现还不错吧？对吧对吧₍^ >ヮ<^₎ .ᐟ.ᐟ 我可是练习了好久呢，待会一定要吃点好吃的犒劳自己！热干面、三鲜豆皮、莲藕排骨汤……吃点什么好呢…要不都来点尝尝…？啊！抱歉抱歉，一提到吃的就忍不住走神了嘿嘿(〃▽〃) 你也要照顾好自己哦！别让我担心哦！ヾ(´︶`\*)ﾉ♬<br><br>
@@ -20,3 +21,8 @@ slug: tianyi_letter
 那，下一次再见吧？<br><br>
 最后，就让我重新自我介绍一下~<br><br>
 你好，我是虚拟歌手洛天依。<br><br>
+
+> [!NOTE] 借物表
+> 天依GPT-SoVITS模型：[Bilibili@只想干饭的麦克斯韦妖](https://b23.tv/F3gUoXr)
+> 音乐：[《光与影的对白》钢琴版](https://b23.tv/aeZSEsI)
+
