@@ -11,7 +11,7 @@ image: https://img.craneovo.top/file/blog/posts/tianyi_letter/1793380945036_Imag
 slug: tianyi_letter
 ---
 
-<audio controls src="https://img.craneovo.top/file/voice/1793380646317_天依的信.mp3"></audio>
+<audio controls src="https://mp3tourl.com/audio/1793382677832-59689742-c232-4b51-a883-f9213d103f40.mp3"></audio>
 
 
 呼呼，今年巡演的最后一站也圆满落幕啦！怎么样，天依在台上的表现还不错吧？对吧对吧₍^ >ヮ<^₎ .ᐟ.ᐟ 我可是练习了好久呢，待会一定要吃点好吃的犒劳自己！热干面、三鲜豆皮、莲藕排骨汤……吃点什么好呢…要不都来点尝尝…？啊！抱歉抱歉，一提到吃的就忍不住走神了嘿嘿(〃▽〃) 你也要照顾好自己哦！别让我担心哦！ヾ(´︶`\*)ﾉ♬<br><br>
