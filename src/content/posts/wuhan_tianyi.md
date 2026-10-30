@@ -4,6 +4,7 @@ published: 2026-10-31
 pinned: false
 description: 武汉场后天依为你留下的话~
 tags: [天依, 无料信件]
+category: 2026纯蓝幻乐武汉场
 draft: false
 author: 洛天依
 image: https://img.craneovo.top/file/blog/posts/tianyi_letter/1793380945036_Image_1787496952390_699.jpg
@@ -24,6 +25,6 @@ slug: tianyi_letter
 你好，我是虚拟歌手洛天依。<br><br>
 
 > [!NOTE] 借物表
-> 天依GPT-SoVITS模型：[Bilibili@只想干饭的麦克斯韦妖](https://b23.tv/F3gUoXr)<br><br>
-> 音乐：[《光与影的对白》钢琴版](https://b23.tv/aeZSEsI)
+> 天依GPT-SoVITS模型：<br>  [Bilibili@只想干饭的麦克斯韦妖](https://b23.tv/F3gUoXr)<br><br>
+> 音乐：<br>  [《光与影的对白》钢琴版](https://b23.tv/aeZSEsI)
 
