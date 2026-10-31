@@ -7,7 +7,7 @@ tags: [天依, 无料信件]
 category: 2026纯蓝幻乐武汉场
 draft: false
 author: 洛天依
-image: https://img.craneovo.top/file/blog/posts/tianyi_letter/1793380945036_Image_1787496952390_699.jpg
+image: https://img.craneovo.top/file/blog/posts/tianyi_letter/1793458091409_IMG_20261031_224651.jpg
 slug: tianyi_letter
 ---
 
